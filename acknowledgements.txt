@@ -1,0 +1,1 @@
+I used generative AI tools including ChatGPT (OpenAI) and Claude (Anthropic) to help understand the assignment and assist with implementing parts of the code such as the random policy, Q-learning update rule, epsilon-greedy policy, and the training loop. All generated suggestions were reviewed, modified, and executed by me before submission.
